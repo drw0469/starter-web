@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    David Walker    dew0469@yahoo.com    @awesomedw
 
 # THANKS
 
